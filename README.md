@@ -1,4 +1,4 @@
-# fe-contracts-lineage-workshop
+# Fifth Elephant Workshop for Data Contracts and Lineage
 This repository is for fifth elephant workshop
 
 ## Pre-Requisites
