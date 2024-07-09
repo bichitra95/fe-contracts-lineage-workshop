@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fe-contracts-lineage-workshop"
+version = "0.1.0"
+description = ""
+authors = ["Bichitra Kumar Sahoo <32828151+bichitra95@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+soda-core-mysql="^3.3.10"
+soda-core-contracts="^3.3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
