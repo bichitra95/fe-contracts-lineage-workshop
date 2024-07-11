@@ -19,6 +19,10 @@ CREATE TABLE `marketing_campaign_dataset` (
   `Engagement_Score` int DEFAULT NULL,
   `Customer_Segment` varchar(50) DEFAULT NULL,
   `Date` varchar(50) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+);
+
+
+CREATE VIEW `marketing_view` AS select `marketing_campaign_dataset`.`Company` AS `Company`,`marketing_campaign_dataset`.`Campaign_Type` AS `Campaign_Type`,`marketing_campaign_dataset`.`Channel_Used` AS `Channel_Used`,`marketing_campaign_dataset`.`Acquisition_Cost` AS `Acquisition_Cost`,`marketing_campaign_dataset`.`Clicks` AS `Clicks`,`marketing_campaign_dataset`.`Impressions` AS `Impressions` from `marketing_campaign_dataset` limit 200;
+
 
 
