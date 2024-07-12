@@ -2,7 +2,7 @@
 This repository is for fifth elephant workshop
 
 ## Pre-Requisites
-* Install MySQL in local env ([Ref](https://dev.mysql.com/downloads/mysql/))
+* Install MySQL and MySQL Workbench in your local env ([Ref](https://dev.mysql.com/downloads/mysql/))
 * Fork [this Repo](https://github.com/bichitra95/fe-contracts-lineage-workshop)
 * Have Docker Desktop [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * Atlan CLI install
