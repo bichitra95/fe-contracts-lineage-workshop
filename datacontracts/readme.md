@@ -1,7 +1,10 @@
 ## Play with Contracts using Atlan CLI
 
 ### Download the .env file
-[.env](https://drive.usercontent.google.com/u/0/uc?id=1iwTXmirpKsmnHVUfkfhXbEhDKvHhpvtL&export=download)
+```commandline
+ curl -o .env -L https://drive.usercontent.google.com/u/0/uc\?id\=1iwTXmirpKsmnHVUfkfhXbEhDKvHhpvtL\&export\=download
+
+```
 
 ### Create a contract for the given asset 
 ```commandline
