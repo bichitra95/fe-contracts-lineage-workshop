@@ -3,7 +3,7 @@ This repository is for fifth elephant workshop
 
 ## Pre-Requisites
 * Install MySQL in local env ([Ref](https://dev.mysql.com/downloads/mysql/))
-* Fork [this Repo](https://github.com/bichitra95/fe-contracts-lineage-workshop) and setup poetry dependencies
+* Fork [this Repo](https://github.com/bichitra95/fe-contracts-lineage-workshop)
 * Have Docker Desktop [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * Atlan CLI install
   * [Darwin_amd64](https://atlan-public.s3.eu-west-1.amazonaws.com/atlan/atlan-cli/v0.1.3-beta/atlan_Darwin_amd64.tar.gz)
