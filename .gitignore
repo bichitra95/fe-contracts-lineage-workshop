@@ -1,1 +1,3 @@
-.atlan
+.atlan/soda_cloud.yaml
+.env
+.atlan/data_sources.yaml

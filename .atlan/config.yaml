@@ -1,0 +1,13 @@
+atlan_api_key:
+atlan_base_url: "https://fifthelephant.atlan.com"
+log:
+    enabled: true
+    level: info
+
+
+data_source mysql-dev:  #
+  type: mysql  #
+  connection:  #
+    qualified_name: "default/mysql/1720521169"  #
+  database: "def"  #
+  schema: "fifthelephant"  #

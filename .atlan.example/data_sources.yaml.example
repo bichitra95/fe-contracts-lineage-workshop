@@ -1,8 +1,0 @@
-type: mysql
-name: mysql-dev
-connection:
-  type: mysql
-  host: 127.0.0.1
-  username: simple
-  password: simple_pass
-  database: customers

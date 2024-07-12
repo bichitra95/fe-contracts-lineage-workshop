@@ -1,0 +1,4 @@
+ruamel.yaml==0.17.40
+soda-core-mysql==3.3.10
+soda-core-contracts==3.3.10
+colorama
